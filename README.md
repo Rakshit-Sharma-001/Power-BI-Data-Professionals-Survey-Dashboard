@@ -3,7 +3,7 @@
 This repository contains the files for a Power BI dashboard project based on the Data Professionals Survey. The project aims to analyze and visualize the survey data using Power BI.
 
 ## Project Overview
-The Power BI Dashboard Project for Data Professionals is the final project of the Power BI tutorial series. The project utilizes real data collected from a survey of data professionals. It involves data cleaning, transformation, and visualization using Power BI.
+The Power BI Dashboard Project for Data Professionals utilizes real data collected from a survey of data professionals. It involves data cleaning, transformation, and visualization using Power BI.
 
 ## Files Included
 - `Survey Data.xlsx`: The original Excel file containing the survey data.
